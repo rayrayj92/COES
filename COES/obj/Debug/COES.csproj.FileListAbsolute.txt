@@ -1,0 +1,9 @@
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\bin\Debug\COES.exe.config
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\bin\Debug\COES.exe
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\bin\Debug\COES.pdb
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.Form1.resources
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.exe
+c:\users\ray\documents\visual studio 2012\Projects\COES\COES\obj\Debug\COES.pdb

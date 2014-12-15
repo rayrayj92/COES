@@ -1,0 +1,35 @@
+-----Installation Guide-----
+
+We will need a database to work this software.
+
+1. Installing MySQL Enviornment. 
+2. Go to http://www.mysql.com/products/workbench/, and install MySQL workbench.
+3. Go to http://dev.mysql.com/downloads/windows/installer/ install MySQL server on your computer.
+4. Open MySQL Workbench.
+
+5. Open COES folder.
+6. Open COES_Guide folder.
+7. You will see "coes-data.sql" file. Run the file via MySQL workbench.
+8. Now structure of database has been installed.
+
+9. Go to COES folder (Click back)
+10. Open COES.sln
+11. Go to Form1.cs and crudDAO.cs and replace MySQL connection details to yours. (e.g. username and password and etc..)
+12. "string myConnection" <- this one.
+
+13. Go to COES folder
+14. Open to Debug folder
+15. Double click/Run "COES.exe"
+
+-----Product Usage Guide-----
+
+1. When you add orders, Customer ID and Order ID must be written.
+2. When you update or delete items, you just need item ID.
+3. Payment must be through in order to complete the transactions.
+4. Sales Summary Button Only available for managers/administrators.
+5. If you are a manager/administrator of the business, you will be given manager ID and password.
+
+-----Manager ID and Password-----
+
+ManagerID = admin
+Password = 123
